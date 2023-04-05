@@ -1,0 +1,125 @@
+altura,nome,genero,nascimento,est_civil
+169,ABREU,Masc,17/12/2002,solteiro
+189,ABREU D,Masc,18/09/2000,solteiro
+143,ALANA,Fem,21/06/1998,solteiro
+156,ALANA A,Fem,23/03/1999,casado
+179,ALEXANDRE,Masc,24/12/2001,casado
+181,ALEXANDRE P,Masc,22/06/2000,divorciado
+189,ALVARO,Masc,23/08/2000,solteiro
+153,ANA,Fem,24/06/2000,solteiro
+184,ANDERSON,Masc,15/02/1998,solteiro
+187,ANTONIO,Masc,20/03/2002,solteiro
+161,ARIEL,Masc,21/04/2001,solteiro
+157,ARIEL A,Masc,22/05/1999,casado
+168,ARLETE,Fem,09/05/2003,casado
+164,AUGUSTO,Masc,25/10/1999,casado
+185,AUGUSTO C,Masc,03/10/2001,casado
+157,BEATRIZ,Fem,19/01/2001,divorciado
+175,BERNARDO,Masc,07/05/2000,divorciado
+183,BRUNO,Masc,24/08/1999,divorciado
+173,CARLA,Fem,10/12/1998,divorciado
+173,CARLA F,Fem,20/06/2000,solteiro
+186,CARLOS,Masc,21/07/2000,solteiro
+157,CARMEM,Fem,25/08/2000,solteiro
+154,CARMEM 2,Fem,02/03/2001,solteiro
+152,CAROLINA,Fem,04/11/2002,solteiro
+165,CELSO,Masc,21/07/2000,solteiro
+175,CELSO A,Masc,25/08/2000,casado
+145,CINTIA,Fem,02/03/2001,casado
+158,CINTIA U,Fem,04/11/2002,casado
+187,CRISTINA,Fem,21/07/2000,casado
+174,DANIELA,Fem,25/08/2000,casado
+152,DAVID,Masc,02/03/2001,divorciado
+170,DIANA,Fem,04/11/2002,divorciado
+165,DIANA E,Fem,23/03/1999,divorciado
+166,EDERSON,Masc,24/12/2001,casado
+182,EDERSON Q,Masc,11/06/2000,casado
+154,EDUARDA,Fem,23/07/2000,casado
+165,ELIZABETH,Fem,24/06/2000,casado
+171,ELIZABETH L,Fem,15/02/1999,casado
+139,ELIZETE,Fem,20/03/2002,casado
+166,ELIZETE T,Fem,25/09/2002,solteiro
+167,EMERSON,Masc,29/07/1998,solteiro
+185,FABIO,Masc,18/09/1997,solteiro
+190,FABIO U,Masc,12/12/2002,solteiro
+179,FABRICIO,Masc,25/12/2000,solteiro
+179,FABRICIO R,Masc,14/02/2002,solteiro
+173,FELICIA,Fem,19/02/1999,solteiro
+170,FELICIA H,Fem,10/12/1999,divorciado
+167,FERNANDA,Fem,05/06/1998,divorciado
+179,FERNANDO,Masc,13/06/2001,divorciado
+145,FERNANDO X,Masc,30/07/1999,divorciado
+150,FRANCISCA,Fem,16/07/2001,divorciado
+166,FRANCISCA K,Fem,25/08/2003,divorciado
+162,GABRIEL,Masc,09/05/1999,divorciado
+168,GABRIELA,Fem,07/02/2003,solteiro
+150,GABRIELA P,Fem,30/04/1998,solteiro
+171,GILDA,Fem,01/12/2003,solteiro
+169,GILDA A,Fem,25/08/2003,solteiro
+178,GUILHERME,Masc,09/05/1999,solteiro
+179,GUILHERME D,Masc,07/02/2003,solteiro
+157,GUSTAVO,Masc,23/04/1998,solteiro
+175,GUSTAVO R,Masc,15/11/2003,casado
+154,HENRIQUE,Masc,25/08/2003,casado
+165,HENRIQUE A,Masc,30/05/1998,casado
+184,IGOR,Masc,15/12/2002,casado
+186,IGOR G,Masc,25/08/2003,casado
+151,ISABEL,Fem,01/04/2000,casado
+168,ISABEL Q,Fem,20/03/2001,casado
+157,JOÃO,Masc,21/02/2001,casado
+179,JOAQUIM,Masc,22/07/1999,casado
+187,JOAQUIM A,Masc,19/05/2003,solteiro
+175,JONATAS,Masc,25/11/1999,solteiro
+170,JORGE,Masc,03/01/2001,solteiro
+175,JORGE U,Masc,19/02/2001,solteiro
+179,JOSÉ,Masc,07/05/2002,solteiro
+154,JULIANA,Fem,04/08/1998,solteiro
+160,JULIANA B,Fem,10/01/1998,solteiro
+165,JULIANO,Masc,20/06/2001,solteiro
+150,KAREN,Fem,21/07/2002,solteiro
+164,KARINA,Fem,25/08/2001,solteiro
+164,LARISSA,Fem,02/06/2001,divorciado
+185,LARISSA Q,Fem,04/11/2002,solteiro
+149,LETICIA,Fem,21/07/2000,divorciado
+155,LETICIA G,Fem,25/08/2000,solteiro
+175,LUANA,Fem,02/03/2001,solteiro
+176,LUIZA,Fem,04/11/2002,solteiro
+175,MANOEL,Masc,21/07/2000,solteiro
+175,MARCELO,Masc,25/08/2000,solteiro
+165,MARCELO A,Masc,02/03/2001,solteiro
+158,MARCIA,Fem,04/11/2002,solteiro
+176,MARCIO,Masc,23/03/1999,solteiro
+179,MARCIO O,Masc,24/12/2001,solteiro
+181,MARCOS,Masc,11/04/2001,solteiro
+178,MARCOS E,Masc,23/09/2000,solteiro
+180,MARIA,Fem,24/11/2000,solteiro
+141,MARIA Y,Fem,25/08/2000,solteiro
+150,MAURICIO,Masc,02/03/2001,solteiro
+162,MAURICIO M,Masc,04/11/2002,solteiro
+172,MICHEL,Masc,21/07/2000,solteiro
+168,NATALIE,Fem,17/12/2002,solteiro
+165,NATALIE W,Fem,18/09/2000,solteiro
+145,NATHALIA,Fem,09/05/2001,solteiro
+139,PAULA,Fem,09/08/2002,solteiro
+185,PAULO,Masc,24/12/2001,solteiro
+145,PEDRO,Masc,22/06/2000,solteiro
+156,PRISCILA,Fem,23/08/2000,solteiro
+188,RAFAEL,Masc,24/06/2000,solteiro
+181,RAFAELA,Fem,23/03/1999,solteiro
+162,RAFAELA W,Fem,20/03/2002,solteiro
+153,RAQUEL,Fem,21/04/2001,solteiro
+152,RAQUEL U,Fem,22/05/1999,solteiro
+172,RENAN,Masc,09/05/2003,solteiro
+188,RENAN G,Masc,25/10/1999,solteiro
+158,RITA,Fem,03/10/2001,solteiro
+178,RITA P,Fem,24/10/2001,solteiro
+152,ROBSON,Masc,13/06/1998,solteiro
+165,ROBSON T,Masc,14/09/2000,solteiro
+164,SANDRA,Fem,19/11/2003,solteiro
+181,SANDRA K,Fem,17/10/2004,solteiro
+163,SILVANA,Fem,13/05/1998,solteiro
+151,SIMONE,Fem,18/04/1997,solteiro
+168,SIMONE P,Fem,27/11/2002,solteiro
+140,VANIA,Fem,12/08/1998,solteiro
+175,VICTOR,Masc,19/03/2000,solteiro
+176,VICTOR W,Masc,23/04/1998,solteiro
