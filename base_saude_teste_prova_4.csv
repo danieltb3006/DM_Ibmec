@@ -18,10 +18,10 @@ idade,genero,hipertensao,doenças_cardiacas,Casado,tipo_de_trabalho,tipo_de_resi
 64,Masculino,0,1,Sim,Privado,Urbano,"191,61",37.5,Fumante,1
 75,Masculino,1,0,Sim,Privado,Urbano,"221,29",25.8,Fumante,1
 60,Feminino,0,0,Não,Privado,Urbano,"89,22",37.8,Nunca Fumou,1
-57,Masculino,0,1,Não,publico,Urbano,N/A,,Desconhecido,1
-71,Feminino,0,0,Sim,publico,Rural,N/A,22.4,Fumante,1
-52,Feminino,1,0,Sim,autonomo,Urbano,N/A,48.9,Nunca Fumou,1
-79,Feminino,0,0,Sim,autonomo,Urbano,N/A,26.6,Nunca Fumou,1
+57,Masculino,0,1,Não,publico,Urbano,,,Desconhecido,1
+71,Feminino,0,0,Sim,publico,Rural,,22.4,Fumante,1
+52,Feminino,1,0,Sim,autonomo,Urbano,,48.9,Nunca Fumou,1
+79,Feminino,0,0,Sim,autonomo,Urbano,,26.6,Nunca Fumou,1
 82,Masculino,0,1,Sim,Privado,Rural,"208,3",32.5,Desconhecido,1
 71,Masculino,0,0,Sim,Privado,Urbano,"102,87",27.2,Ex-Fumante,1
 80,Masculino,0,0,Sim,autonomo,Rural,"104,12",23.5,Nunca Fumou,1
