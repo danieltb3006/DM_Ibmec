@@ -1,0 +1,1001 @@
+﻿Filial;Cidade;Tipo_de_cliente;Genero;Linha_de_produtos;Preco_unitario_custo;Preco_unitario;Quantidade;Pagamento
+A;Yangon;Normal;Male;Sports and travel;65.35;72,61;6;Credit card
+A;Yangon;Member;Male;Home and lifestyle;42.83;47,59;8;Cash
+B;Mandalay;Normal;Female;Electronic accessories;67.24;74,71;6;Cash
+C;Naypyitaw;Member;Female;Sports and travel;33.28;36,98;10;Credit card
+C;Naypyitaw;Normal;Female;Electronic accessories;56.90;63,22;2;Cash
+C;Naypyitaw;Normal;Male;Health and beauty;56.58;62,87;2;Cash
+A;Yangon;Normal;Female;Fashion accessories;59.17;65,74;9;Cash
+A;Yangon;Member;Female;Sports and travel;24.34;27,04;4;Ewallet
+A;Yangon;Member;Female;Electronic accessories;66.80;74,22;10;Credit card
+C;Naypyitaw;Member;Female;Sports and travel;26.30;29,22;6;Ewallet
+B;Mandalay;Normal;Male;Food and beverages;19.01;21,12;8;Cash
+B;Mandalay;Member;Female;Food and beverages;76.07;84,63;10;Credit card
+C;Naypyitaw;Normal;;Electronic accessories;20.76;23,07;9;Cash
+C;Naypyitaw;Member;;Home and lifestyle;72.71;80,79;9;Credit card
+A;Yangon;Member;;Sports and travel;62.57;69,52;7;Credit card
+A;Yangon;Member;;Food and beverages;12.81;14,23;5;Credit card
+C;Naypyitaw;Member;;Food and beverages;78.31;87,48;6;Ewallet
+A;Yangon;Member;;Health and beauty;78.32;77,68;4;Cash
+C;Naypyitaw;Normal;;Fashion accessories;78.33;78,55;9;Cash
+B;Mandalay;Normal;;Electronic accessories;78.34;27,5;3;Ewallet
+C;Naypyitaw;Member;;Food and beverages;78.35;74,89;4;Ewallet
+A;Yangon;Normal;;Home and lifestyle;78.36;34,73;2;Ewallet
+B;Mandalay;Member;Male;Fashion accessories;78.37;81,31;7;Ewallet
+B;Mandalay;Normal;Male;Health and beauty;;69,51;2;Ewallet
+B;Mandalay;Normal;Male;Health and beauty;;14,82;3;Credit card
+A;Yangon;Normal;Female;Electronic accessories;;45,48;10;Credit card
+A;Yangon;Member;Female;Fashion accessories;;22,32;4;Credit card
+B;Mandalay;Member;Male;Food and beverages;;53,72;1;Ewallet
+A;Yangon;Normal;Male;Sports and travel;;42,47;1;Cash
+C;Naypyitaw;Normal;Male;Fashion accessories;;99,82;2;Credit card
+B;Mandalay;Normal;Female;Health and beauty;;34,21;10;Cash
+B;Mandalay;Member;Male;Fashion accessories;;40,61;9;Cash
+B;Mandalay;Normal;Male;Electronic accessories;;22,01;6;Cash
+A;Yangon;Member;Male;Food and beverages;;41,66;6;Ewallet
+C;Naypyitaw;Member;Female;Sports and travel;;31,67;8;Credit card
+B;Mandalay;Normal;Male;Sports and travel;;44,63;6;Credit card
+C;Naypyitaw;Member;Male;Home and lifestyle;;56,11;2;Cash
+A;Yangon;Member;Female;Health and beauty;;18,33;1;Cash
+A;Yangon;Normal;Female;Food and beverages;;10,96;10;Ewallet
+B;Mandalay;Normal;Male;Home and lifestyle;;93,87;8;Credit card
+B;Mandalay;Member;Male;Food and beverages;;46,55;9;Ewallet
+C;Naypyitaw;Normal;Female;Fashion accessories;;95,42;4;Ewallet
+B;Mandalay;Member;Female;Electronic accessories;;26,26;7;Cash
+A;Yangon;Member;Male;Fashion accessories;;43,13;10;Credit card
+C;Naypyitaw;Normal;Male;Food and beverages;;65,97;8;Cash
+A;Yangon;Member;Female;Sports and travel;;51,52;8;Cash
+B;Mandalay;Normal;Female;Fashion accessories;;25,56;7;Cash
+C;Naypyitaw;Member;Female;Food and beverages;;38,42;1;Cash
+C;Naypyitaw;Normal;;Electronic accessories;;35,49;6;Cash
+C;Naypyitaw;Member;;Fashion accessories;;83,35;2;Credit card
+A;Yangon;Member;;Sports and travel;;88,63;3;Ewallet
+C;Naypyitaw;Normal;;Fashion accessories;;27,02;3;Credit card
+B;Mandalay;Normal;;Electronic accessories;;99,73;9;Credit card
+B;Mandalay;Member;;Electronic accessories;;13,22;5;Cash
+C;Naypyitaw;Normal;;Sports and travel;;14,39;2;Credit card
+B;Mandalay;Member;;Home and lifestyle;;27;9;Cash
+C;Naypyitaw;Member;;Sports and travel;;54,55;10;Credit card
+C;Naypyitaw;Normal;;Sports and travel;;73,98;7;Ewallet
+B;Mandalay;Normal;;Health and beauty;;73,41;3;Ewallet
+B;Mandalay;Member;;Home and lifestyle;;88,39;9;Cash
+A;Yangon;Member;;Sports and travel;;39,47;2;Credit card
+C;Naypyitaw;Member;;Fashion accessories;;92,49;5;Credit card
+C;Naypyitaw;Member;;Health and beauty;;85,6;7;Cash
+B;Mandalay;Member;;Electronic accessories;;26,26;3;Ewallet
+B;Mandalay;Normal;;Sports and travel;;25,31;2;Ewallet
+A;Yangon;Normal;;Food and beverages;;66,52;4;Ewallet
+B;Mandalay;Normal;;Electronic accessories;;38,27;2;Credit card
+B;Mandalay;Normal;;Home and lifestyle;;97,38;10;Ewallet
+A;Yangon;Normal;;Health and beauty;;70,01;5;Ewallet
+A;Yangon;Normal;Female;Health and beauty;;23,03;9;Ewallet
+C;Naypyitaw;Member;Female;Health and beauty;;21,12;2;Cash
+A;Yangon;Normal;Female;Home and lifestyle;;67,09;5;Credit card
+C;Naypyitaw;Member;Male;Health and beauty;;75,88;1;Credit card
+B;Mandalay;Normal;Male;Sports and travel;;93,38;1;Cash
+B;Mandalay;Normal;Female;Home and lifestyle;;63,15;6;Ewallet
+B;Mandalay;Member;Male;Health and beauty;;62;8;Credit card
+C;Naypyitaw;Member;Male;Food and beverages;;91,4;7;Cash
+B;Mandalay;Member;Female;Sports and travel;;55,07;9;Ewallet
+A;Yangon;Member;Female;Home and lifestyle;;94,88;7;Cash
+A;Yangon;Normal;Male;Fashion accessories;;77,02;5;Cash
+C;Naypyitaw;Normal;Male;Food and beverages;;40,52;5;Cash
+C;Naypyitaw;Normal;Female;Sports and travel;;73,95;4;Cash
+B;Mandalay;Member;Male;Sports and travel;;73,97;1;Credit card
+C;Naypyitaw;Normal;Female;Sports and travel;;49,33;10;Credit card
+A;Yangon;Member;Male;Food and beverages;;67,45;10;Ewallet
+A;Yangon;Member;Male;Home and lifestyle;;72,78;10;Cash
+B;Mandalay;Normal;Female;Sports and travel;;42,97;3;Cash
+A;Yangon;Normal;Female;Food and beverages;;27,28;5;Credit card
+B;Mandalay;Member;Male;Food and beverages;;47,16;5;Credit card
+B;Mandalay;Member;Male;Fashion accessories;;53,78;1;Ewallet
+A;Yangon;Normal;Male;Home and lifestyle;;46,33;7;Credit card
+B;Mandalay;Member;Male;Home and lifestyle;;30,12;8;Cash
+C;Naypyitaw;Member;Male;Electronic accessories;;81,97;10;Cash
+C;Naypyitaw;Normal;Male;Electronic accessories;;20,85;8;Cash
+A;Yangon;Member;Male;Food and beverages;;22,17;8;Credit card
+B;Mandalay;Member;Female;Home and lifestyle;;94,49;8;Ewallet
+C;Naypyitaw;Member;Female;Electronic accessories;;51,92;5;Cash
+A;Yangon;Normal;Male;Health and beauty;;25;1;Ewallet
+B;Mandalay;Member;Female;Food and beverages;;73,05;10;Credit card
+C;Naypyitaw;Member;Male;Health and beauty;;46,53;6;Credit card
+A;Yangon;Normal;Male;Health and beauty;;28,95;7;Credit card
+C;Naypyitaw;Normal;Female;Home and lifestyle;;44,01;8;Cash
+A;Yangon;Normal;Male;Fashion accessories;;46,41;1;Credit card
+C;Naypyitaw;Member;Female;Electronic accessories;;30,2;8;Ewallet
+B;Mandalay;Member;Male;Electronic accessories;;72,17;1;Cash
+C;Naypyitaw;Member;Female;Electronic accessories;;66,65;9;Credit card
+B;Mandalay;Normal;Male;Sports and travel;;46,42;3;Credit card
+A;Yangon;Member;Female;Home and lifestyle;;35,54;10;Ewallet
+B;Mandalay;Member;Female;Fashion accessories;;68,71;4;Cash
+A;Yangon;Member;Male;Health and beauty;;20,97;5;Cash
+A;Yangon;Member;Male;Electronic accessories;;71,95;1;Cash
+C;Naypyitaw;Member;Male;Home and lifestyle;;13,98;1;Ewallet
+A;Yangon;Member;Female;Electronic accessories;;25,22;7;Cash
+B;Mandalay;Member;Female;Home and lifestyle;;77,68;9;Ewallet
+B;Mandalay;Member;;Fashion accessories;;72,04;2;Cash
+A;Yangon;Normal;;Sports and travel;;43,06;5;Ewallet
+A;Yangon;Normal;;Fashion accessories;;48,63;4;Ewallet
+C;Naypyitaw;Normal;;Health and beauty;;13,85;9;Ewallet
+B;Mandalay;Member;;Food and beverages;;23,34;4;Ewallet
+A;Yangon;Normal;;Electronic accessories;;74,58;7;Credit card
+B;Mandalay;Normal;;Food and beverages;;67,77;1;Credit card
+C;Naypyitaw;Member;;Food and beverages;;98,7;8;Cash
+A;Yangon;Normal;;Sports and travel;;12,34;7;Credit card
+A;Yangon;Member;;Health and beauty;;99,83;6;Ewallet
+C;Naypyitaw;Normal;;Electronic accessories;;30,24;1;Cash
+B;Mandalay;Member;;Electronic accessories;;19,24;9;Cash
+A;Yangon;Normal;;Home and lifestyle;;56,53;4;Ewallet
+A;Yangon;Normal;;Health and beauty;;14,62;5;Cash
+A;Yangon;Member;;Health and beauty;;48,63;10;Cash
+A;Yangon;Member;;Fashion accessories;;48,96;9;Cash
+A;Yangon;Normal;;Health and beauty;;68,71;3;Cash
+A;Yangon;Normal;;Home and lifestyle;;33,3;9;Ewallet
+A;Yangon;Normal;;Food and beverages;;74,66;4;Cash
+A;Yangon;Member;;Health and beauty;;74,69;7;Ewallet
+C;Naypyitaw;Normal;;Fashion accessories;;27,38;6;Credit card
+A;Yangon;Member;;Home and lifestyle;;62,65;4;Cash
+A;Yangon;Member;;Home and lifestyle;;70,74;4;Credit card
+B;Mandalay;Member;;Home and lifestyle;;35,38;9;Credit card
+C;Naypyitaw;Member;;Fashion accessories;;31,9;1;Ewallet
+A;Yangon;Normal;;Home and lifestyle;;42,91;5;Ewallet
+B;Mandalay;Member;;Fashion accessories;;73,96;1;Credit card
+B;Mandalay;Normal;;Food and beverages;;71,2;1;Credit card
+C;Naypyitaw;Normal;;Fashion accessories;;76,06;3;Credit card
+C;Naypyitaw;Normal;;Health and beauty;;78,89;7;Ewallet
+A;Yangon;Normal;;Electronic accessories;;93,88;7;Credit card
+B;Mandalay;Member;;Sports and travel;;16,49;2;Ewallet
+C;Naypyitaw;Member;;Health and beauty;;98,21;3;Credit card
+C;Naypyitaw;Member;;Health and beauty;;68,6;10;Cash
+A;Yangon;Member;;Home and lifestyle;;25,91;6;Ewallet
+C;Naypyitaw;Member;;Fashion accessories;;69,33;2;Ewallet
+B;Mandalay;Member;;Food and beverages;;42,82;9;Credit card
+B;Mandalay;Normal;;Health and beauty;;58,24;9;Cash
+A;Yangon;Member;;Sports and travel;;75,2;3;Ewallet
+A;Yangon;Member;;Fashion accessories;;30,62;1;Credit card
+A;Yangon;Member;;Food and beverages;;87,9;1;Ewallet
+C;Naypyitaw;Member;;Food and beverages;;47,27;6;Cash
+A;Yangon;Member;;Electronic accessories;;20,89;2;Cash
+B;Mandalay;Normal;;Health and beauty;;87,98;3;Ewallet
+B;Mandalay;Member;;Food and beverages;;48,52;3;Ewallet
+C;Naypyitaw;Member;;Food and beverages;;78,31;10;Ewallet
+C;Naypyitaw;Normal;;Sports and travel;;83,06;7;Ewallet
+B;Mandalay;Normal;;Home and lifestyle;;82,7;6;Cash
+B;Mandalay;Member;;Fashion accessories;;21,94;5;Ewallet
+B;Mandalay;Member;;Food and beverages;;18,08;3;Ewallet
+C;Naypyitaw;Member;;Fashion accessories;;44,22;5;Credit card
+A;Yangon;Normal;;Fashion accessories;;81,91;2;Cash
+B;Mandalay;Member;Female;Health and beauty;;55,97;7;Ewallet
+B;Mandalay;Member;Female;Health and beauty;;41,06;6;Credit card
+B;Mandalay;Member;Female;Health and beauty;;25,32;8;Ewallet
+C;Naypyitaw;Member;Female;Home and lifestyle;;12,12;10;Credit card
+A;Yangon;Normal;Male;Electronic accessories;;78,31;3;Ewallet
+B;Mandalay;Normal;Male;Sports and travel;;69,74;10;Credit card
+B;Mandalay;Normal;Female;Home and lifestyle;;95,46;8;Ewallet
+C;Naypyitaw;Member;Male;Health and beauty;;65,31;7;Credit card
+C;Naypyitaw;Normal;Male;Food and beverages;;89,48;10;Credit card
+A;Yangon;Member;Male;Home and lifestyle;;58,9;8;Cash
+A;Yangon;Normal;Female;Sports and travel;;15,34;1;Cash
+C;Naypyitaw;Normal;Female;Fashion accessories;;81,68;4;Cash
+A;Yangon;Normal;Female;Food and beverages;;40,94;5;Ewallet
+B;Mandalay;Normal;Male;Home and lifestyle;;62,19;4;Ewallet
+B;Mandalay;Member;Male;Health and beauty;;80,47;9;Cash
+A;Yangon;Normal;Male;Sports and travel;;64,59;4;Ewallet
+A;Yangon;Normal;Female;Fashion accessories;;42,57;7;Cash
+B;Mandalay;Member;Female;Fashion accessories;;14,48;4;Ewallet
+C;Naypyitaw;Member;Female;Food and beverages;;99,42;4;Ewallet
+B;Mandalay;Member;Female;Food and beverages;;20,01;9;Ewallet
+C;Naypyitaw;Normal;Male;Health and beauty;;89,75;1;Credit card
+B;Mandalay;Member;Male;Health and beauty;;25,9;10;Ewallet
+C;Naypyitaw;Member;Male;Fashion accessories;;96,98;4;Ewallet
+A;Yangon;Member;Female;Home and lifestyle;;37,44;6;Credit card
+B;Mandalay;Normal;Male;Electronic accessories;;22,95;10;Ewallet
+A;Yangon;Normal;Female;Health and beauty;;35,68;5;Credit card
+C;Naypyitaw;Member;Female;Health and beauty;;28,5;8;Cash
+C;Naypyitaw;Normal;Female;Food and beverages;;52,42;1;Credit card
+B;Mandalay;Member;Male;Electronic accessories;;50,45;6;Credit card
+C;Naypyitaw;Member;Male;Home and lifestyle;;35,81;5;Ewallet
+A;Yangon;Member;Male;Sports and travel;;15,81;10;Credit card
+A;Yangon;Member;Female;Sports and travel;;92,13;6;Cash
+B;Mandalay;Member;Male;Home and lifestyle;;71,86;8;Credit card
+B;Mandalay;Normal;Male;Food and beverages;;62,08;7;Ewallet
+B;Mandalay;Normal;Female;Sports and travel;;67,43;5;Ewallet
+C;Naypyitaw;Normal;Male;Home and lifestyle;;37;1;Credit card
+A;Yangon;Member;Male;Electronic accessories;;21,5;9;Credit card
+A;Yangon;Normal;Female;Health and beauty;;79,74;1;Ewallet
+B;Mandalay;Member;Male;Sports and travel;;37,32;9;Ewallet
+B;Mandalay;Normal;Male;Electronic accessories;;28,38;5;Cash
+B;Mandalay;Member;Male;Fashion accessories;;49,92;2;Credit card
+C;Naypyitaw;Member;Female;Sports and travel;;68,12;1;Ewallet
+B;Mandalay;Member;Female;Fashion accessories;;97,61;6;Ewallet
+A;Yangon;Member;Male;Electronic accessories;;77,72;4;Credit card
+A;Yangon;Member;Female;Home and lifestyle;;21,54;9;Credit card
+B;Mandalay;Normal;Male;Fashion accessories;;47,97;7;Cash
+C;Naypyitaw;Member;Female;Home and lifestyle;;21,82;10;Cash
+B;Mandalay;Member;Female;Food and beverages;;89,14;4;Credit card
+A;Yangon;Normal;Male;Sports and travel;;60,95;9;Credit card
+C;Naypyitaw;Normal;Male;Food and beverages;;27,22;3;Cash
+A;Yangon;Normal;Male;Food and beverages;;43,19;10;Ewallet
+A;Yangon;Normal;Male;Health and beauty;;89,6;8;Ewallet
+C;Naypyitaw;Normal;Female;Food and beverages;;16,48;6;Ewallet
+C;Naypyitaw;Member;Male;Electronic accessories;;65,94;4;Credit card
+B;Mandalay;Normal;Male;Home and lifestyle;;22,02;9;Cash
+C;Naypyitaw;Normal;Female;Electronic accessories;;40,86;8;Credit card
+B;Mandalay;Normal;Male;Electronic accessories;;79,39;10;Cash
+B;Mandalay;Member;Female;Food and beverages;;54,36;10;Credit card
+C;Naypyitaw;Normal;Male;Home and lifestyle;;16,67;7;Ewallet
+A;Yangon;Member;Female;Sports and travel;;45,58;1;Cash
+A;Yangon;Normal;Female;Electronic accessories;;28,96;1;Credit card
+C;Naypyitaw;Member;Female;Fashion accessories;;43,46;6;Ewallet
+C;Naypyitaw;Normal;Male;Health and beauty;;58,95;10;Ewallet
+C;Naypyitaw;Normal;Female;Fashion accessories;;60,41;8;Ewallet
+C;Naypyitaw;Member;Male;Sports and travel;;10,17;1;Cash
+B;Mandalay;Normal;Female;Electronic accessories;;57,91;8;Cash
+A;Yangon;Normal;Female;Home and lifestyle;;93,12;8;Cash
+B;Mandalay;Normal;Male;Electronic accessories;;46,02;6;Cash
+C;Naypyitaw;Normal;Male;Fashion accessories;;86,13;2;Cash
+B;Mandalay;Normal;Female;Fashion accessories;;63,71;5;Ewallet
+B;Mandalay;Normal;Male;Home and lifestyle;;16,16;2;Ewallet
+B;Mandalay;Normal;Male;Home and lifestyle;;50,28;5;Ewallet
+C;Naypyitaw;Normal;Female;Fashion accessories;;16,45;4;Ewallet
+A;Yangon;Member;Female;Health and beauty;;15,55;9;Cash
+C;Naypyitaw;Normal;Male;Food and beverages;;99,79;2;Ewallet
+C;Naypyitaw;Normal;Male;Electronic accessories;;84,07;4;Ewallet
+A;Yangon;Normal;Male;Home and lifestyle;;97,94;1;Ewallet
+C;Naypyitaw;Normal;Male;Electronic accessories;;22,21;6;Credit card
+A;Yangon;Member;Female;Home and lifestyle;;28,31;4;Cash
+C;Naypyitaw;Normal;Female;Fashion accessories;;31,73;9;Credit card
+C;Naypyitaw;Member;Female;Food and beverages;;68,54;8;Ewallet
+B;Mandalay;Member;Female;Food and beverages;;74,6;10;Cash
+C;Naypyitaw;Normal;Female;Home and lifestyle;;45,38;4;Credit card
+C;Naypyitaw;Normal;Male;Fashion accessories;;12,78;1;Ewallet
+A;Yangon;Normal;Male;Sports and travel;;37,14;5;Ewallet
+B;Mandalay;Member;Female;Sports and travel;;48,5;3;Cash
+C;Naypyitaw;Member;Female;Fashion accessories;;51,89;7;Cash
+B;Mandalay;Member;Female;Home and lifestyle;;49,1;2;Credit card
+B;Mandalay;Member;Female;Sports and travel;;64,83;2;Credit card
+C;Naypyitaw;Member;Male;Home and lifestyle;;55,57;3;Credit card
+B;Mandalay;Member;Male;Fashion accessories;;65,23;10;Credit card
+A;Yangon;Normal;Female;Electronic accessories;;50,23;4;Cash
+C;Naypyitaw;Member;Female;Food and beverages;;72,88;9;Cash
+A;Yangon;Member;Male;Sports and travel;;12,76;2;Ewallet
+A;Yangon;Member;Female;Electronic accessories;;79,59;3;Cash
+C;Naypyitaw;Member;Male;Food and beverages;;24,31;3;Credit card
+B;Mandalay;Member;Female;Food and beverages;;33,21;10;Ewallet
+A;Yangon;Normal;Male;Sports and travel;;86,31;7;Ewallet
+B;Mandalay;Normal;Male;Fashion accessories;;33,52;1;Cash
+B;Mandalay;Member;Female;Sports and travel;;69,12;6;Cash
+B;Mandalay;Normal;Female;Sports and travel;;90,28;9;Ewallet
+A;Yangon;Normal;Male;Fashion accessories;;98,98;10;Credit card
+B;Mandalay;Member;Male;Home and lifestyle;;46,47;4;Cash
+C;Naypyitaw;Member;Female;Fashion accessories;;97,21;10;Credit card
+C;Naypyitaw;Member;Female;Health and beauty;;37,15;7;Credit card
+B;Mandalay;Normal;Male;Home and lifestyle;;31,75;4;Cash
+A;Yangon;Member;Male;Fashion accessories;;19,7;1;Ewallet
+C;Naypyitaw;Member;Female;Sports and travel;;64,97;5;Credit card
+B;Mandalay;Normal;Female;Home and lifestyle;;16,37;6;Cash
+C;Naypyitaw;Normal;Female;Electronic accessories;;15,28;5;Cash
+A;Yangon;Normal;Male;Electronic accessories;;97,16;1;Ewallet
+C;Naypyitaw;Normal;Female;Health and beauty;;81,3;6;Ewallet
+C;Naypyitaw;Normal;Female;Health and beauty;;46,26;6;Credit card
+A;Yangon;Normal;Female;Fashion accessories;;61,77;5;Cash
+C;Naypyitaw;Normal;Female;Fashion accessories;;37,55;10;Credit card
+A;Yangon;Member;Female;Home and lifestyle;;90,65;10;Ewallet
+C;Naypyitaw;Normal;Male;Food and beverages;;43,27;2;Ewallet
+A;Yangon;Normal;Male;Home and lifestyle;;33,99;6;Credit card
+C;Naypyitaw;Member;Male;Food and beverages;;17,04;4;Ewallet
+B;Mandalay;Member;Female;Food and beverages;;17,63;5;Cash
+C;Naypyitaw;Member;Male;Fashion accessories;;49,04;9;Credit card
+C;Naypyitaw;Normal;Female;Sports and travel;;95,44;10;Cash
+C;Naypyitaw;Normal;Female;Fashion accessories;;49,32;6;Ewallet
+B;Mandalay;Member;Female;Sports and travel;;11,85;8;Cash
+A;Yangon;Member;Male;Fashion accessories;;38,54;5;Ewallet
+B;Mandalay;Member;Female;Home and lifestyle;;21,9;3;Ewallet
+C;Naypyitaw;Normal;Female;Home and lifestyle;;15,8;10;Cash
+C;Naypyitaw;Normal;Male;Electronic accessories;;96,37;7;Cash
+C;Naypyitaw;Normal;Female;Electronic accessories;;12,45;6;Cash
+C;Naypyitaw;Normal;Male;Fashion accessories;;64,26;7;Cash
+B;Mandalay;Member;Female;Electronic accessories;;81,4;3;Cash
+A;Yangon;Member;Female;Sports and travel;;22,24;10;Cash
+C;Naypyitaw;Member;Female;Food and beverages;;21,08;3;Cash
+C;Naypyitaw;Normal;Male;Food and beverages;;21,58;1;Ewallet
+C;Naypyitaw;Member;Female;Home and lifestyle;;15,95;6;Credit card
+B;Mandalay;Normal;Male;Fashion accessories;;57,27;3;Ewallet
+A;Yangon;Member;Male;Food and beverages;;35,04;9;Ewallet
+B;Mandalay;Normal;Male;Home and lifestyle;;45,97;4;Ewallet
+C;Naypyitaw;Normal;Male;Health and beauty;;84,61;10;Credit card
+B;Mandalay;Member;Male;Home and lifestyle;;65,91;6;Cash
+A;Yangon;Member;Male;Food and beverages;;31,84;1;Cash
+B;Mandalay;Member;Male;Electronic accessories;;25,51;4;Cash
+B;Mandalay;Member;Female;Electronic accessories;;93,96;4;Cash
+C;Naypyitaw;Normal;Female;Electronic accessories;;75,91;6;Cash
+C;Naypyitaw;Member;Male;Sports and travel;;48,91;5;Cash
+B;Mandalay;Member;Male;Sports and travel;;99,96;9;Credit card
+B;Mandalay;Member;Female;Fashion accessories;;56,47;8;Ewallet
+A;Yangon;Member;Male;Health and beauty;;51,94;10;Ewallet
+A;Yangon;Member;Male;Food and beverages;;99,78;5;Cash
+A;Yangon;Member;Female;Sports and travel;;52,26;10;Credit card
+C;Naypyitaw;Normal;Male;Fashion accessories;;16,28;1;Cash
+B;Mandalay;Normal;Male;Fashion accessories;;95,54;7;Credit card
+A;Yangon;Normal;Male;Health and beauty;;51,71;4;Credit card
+C;Naypyitaw;Member;Female;Food and beverages;;98,97;9;Cash
+A;Yangon;Normal;Male;Sports and travel;;60,87;2;Ewallet
+B;Mandalay;Member;Female;Home and lifestyle;;52,18;7;Cash
+A;Yangon;Normal;Female;Fashion accessories;;97,29;8;Credit card
+A;Yangon;Member;Female;Health and beauty;;36,26;2;Credit card
+B;Mandalay;Normal;Male;Sports and travel;;83,78;8;Cash
+A;Yangon;Member;Female;Sports and travel;;21,98;7;Ewallet
+A;Yangon;Member;Male;Home and lifestyle;;78,38;6;Ewallet
+C;Naypyitaw;Member;Male;Electronic accessories;;74,79;5;Cash
+B;Mandalay;Normal;Female;Fashion accessories;;79,86;7;Credit card
+C;Naypyitaw;Normal;Female;Sports and travel;;83,14;7;Credit card
+B;Mandalay;Normal;Female;Electronic accessories;;13,78;4;Ewallet
+C;Naypyitaw;Member;Male;Food and beverages;;50,49;9;Cash
+B;Mandalay;Member;Male;Electronic accessories;;18,93;6;Credit card
+A;Yangon;Member;Female;Food and beverages;;44,59;5;Cash
+C;Naypyitaw;Normal;Female;Health and beauty;;33,47;2;Ewallet
+B;Mandalay;Normal;Female;Sports and travel;;34,84;4;Cash
+A;Yangon;Member;Female;Fashion accessories;;30,14;10;Ewallet
+A;Yangon;Normal;Male;Home and lifestyle;;74,07;1;Ewallet
+C;Naypyitaw;Member;Female;Electronic accessories;;78,13;10;Cash
+B;Mandalay;Member;Male;Electronic accessories;;48,09;3;Credit card
+A;Yangon;Member;Female;Fashion accessories;;53,65;7;Ewallet
+C;Naypyitaw;Member;Female;Fashion accessories;;73,38;7;Cash
+B;Mandalay;Member;Male;Home and lifestyle;;36,91;7;Ewallet
+A;Yangon;Normal;Female;Fashion accessories;;87,67;2;Credit card
+A;Yangon;Member;Male;Sports and travel;;62,62;5;Ewallet
+A;Yangon;Normal;Female;Home and lifestyle;;93,69;7;Credit card
+B;Mandalay;Normal;Female;Food and beverages;;57,34;3;Credit card
+B;Mandalay;Normal;Male;Food and beverages;;18,22;7;Credit card
+A;Yangon;Normal;Male;Sports and travel;;25,84;3;Ewallet
+C;Naypyitaw;Normal;Male;Fashion accessories;;45,74;3;Credit card
+A;Yangon;Member;Male;Food and beverages;;10,13;7;Ewallet
+C;Naypyitaw;Member;Male;Health and beauty;;81,95;10;Credit card
+C;Naypyitaw;Member;Female;Home and lifestyle;;35,79;9;Credit card
+B;Mandalay;Normal;Female;Electronic accessories;;25,45;1;Credit card
+A;Yangon;Normal;Male;Electronic accessories;;58,03;2;Ewallet
+C;Naypyitaw;Member;Female;Sports and travel;;87,16;2;Credit card
+A;Yangon;Normal;Male;Fashion accessories;;89,69;1;Ewallet
+A;Yangon;Normal;Male;Food and beverages;;24,94;9;Credit card
+A;Yangon;Member;Male;Sports and travel;;82,33;4;Credit card
+A;Yangon;Normal;Male;Food and beverages;;13,79;5;Credit card
+A;Yangon;Member;Male;Food and beverages;;48,5;6;Ewallet
+C;Naypyitaw;Member;Female;Food and beverages;;36,77;7;Cash
+A;Yangon;Normal;Female;Home and lifestyle;;96,52;6;Cash
+C;Naypyitaw;Normal;Male;Fashion accessories;;62,12;10;Cash
+B;Mandalay;Normal;Female;Home and lifestyle;;77,04;3;Credit card
+B;Mandalay;Normal;Female;Health and beauty;;84,09;9;Cash
+C;Naypyitaw;Normal;Male;Food and beverages;;89,2;10;Credit card
+B;Mandalay;Member;Female;Food and beverages;;77,2;10;Credit card
+A;Yangon;Normal;Female;Sports and travel;;94,76;4;Ewallet
+C;Naypyitaw;Member;Male;Home and lifestyle;;86,69;5;Ewallet
+A;Yangon;Normal;Male;Home and lifestyle;;80,08;3;Cash
+A;Yangon;Member;Female;Health and beauty;;68,93;7;Credit card
+B;Mandalay;Normal;Female;Home and lifestyle;;40,3;2;Ewallet
+C;Naypyitaw;Member;Male;Sports and travel;;34,56;7;Credit card
+B;Mandalay;Member;Female;Sports and travel;;29,61;7;Cash
+A;Yangon;Normal;Female;Home and lifestyle;;63,42;8;Ewallet
+A;Yangon;Normal;Male;Health and beauty;;59,77;2;Credit card
+C;Naypyitaw;Member;Female;Health and beauty;;29,67;7;Credit card
+C;Naypyitaw;Normal;Male;Food and beverages;;46,77;6;Cash
+A;Yangon;Normal;Female;Home and lifestyle;;28,32;5;Ewallet
+A;Yangon;Normal;Female;Fashion accessories;;94,67;4;Cash
+B;Mandalay;Member;Female;Electronic accessories;;34,49;5;Credit card
+A;Yangon;Member;Female;Fashion accessories;;20,01;9;Credit card
+A;Yangon;Member;Male;Electronic accessories;;88,67;10;Ewallet
+C;Naypyitaw;Member;Male;Sports and travel;;57,12;7;Credit card
+B;Mandalay;Normal;Female;Health and beauty;;57,22;2;Ewallet
+B;Mandalay;Member;Female;Health and beauty;;27,07;1;Credit card
+A;Yangon;Normal;Female;Fashion accessories;;29,42;10;Ewallet
+B;Mandalay;Normal;Female;Fashion accessories;;83,25;10;Credit card
+C;Naypyitaw;Normal;Male;Home and lifestyle;;97,5;10;Ewallet
+B;Mandalay;Member;Male;Electronic accessories;;91,56;8;Ewallet
+B;Mandalay;Normal;Male;Sports and travel;;23,01;6;Ewallet
+B;Mandalay;Normal;Female;Home and lifestyle;;51,07;7;Cash
+A;Yangon;Normal;Female;Electronic accessories;;46,95;5;Ewallet
+B;Mandalay;Normal;Male;Fashion accessories;;94,87;8;Ewallet
+B;Mandalay;Member;Male;Home and lifestyle;;60,38;10;Cash
+A;Yangon;Normal;Male;Health and beauty;;25,43;6;Ewallet
+C;Naypyitaw;Member;Female;Food and beverages;;87,1;10;Credit card
+B;Mandalay;Member;Female;Electronic accessories;;39,48;1;Cash
+A;Yangon;Member;Female;Sports and travel;;71,63;2;Ewallet
+C;Naypyitaw;Member;Male;Fashion accessories;;52,35;1;Cash
+C;Naypyitaw;Normal;Male;Electronic accessories;;30,61;6;Cash
+B;Mandalay;Member;Male;Health and beauty;;64,36;9;Credit card
+C;Naypyitaw;Normal;Male;Health and beauty;;41,5;4;Credit card
+B;Mandalay;Member;Female;Electronic accessories;;10,59;3;Credit card
+A;Yangon;Member;Female;Sports and travel;;98,4;7;Credit card
+A;Yangon;Member;Female;Health and beauty;;47,67;4;Cash
+B;Mandalay;Member;Male;Health and beauty;;39,01;1;Credit card
+B;Mandalay;Normal;Male;Sports and travel;;97,74;4;Ewallet
+C;Naypyitaw;Member;Male;Food and beverages;;94,26;4;Cash
+C;Naypyitaw;Normal;Male;Home and lifestyle;;46,22;4;Credit card
+C;Naypyitaw;Member;Male;Food and beverages;;55,04;7;Ewallet
+B;Mandalay;Member;Female;Home and lifestyle;;40,73;7;Ewallet
+C;Naypyitaw;Normal;Female;Electronic accessories;;41,65;10;Credit card
+C;Naypyitaw;Member;Female;Fashion accessories;;74,29;1;Cash
+A;Yangon;Normal;Female;Electronic accessories;;23,46;6;Ewallet
+B;Mandalay;Member;Male;Fashion accessories;;59,86;2;Ewallet
+B;Mandalay;Normal;Male;Food and beverages;;72,39;2;Credit card
+B;Mandalay;Member;Male;Sports and travel;;72,6;6;Cash
+A;Yangon;Normal;Male;Sports and travel;;45,58;7;Cash
+A;Yangon;Member;Female;Health and beauty;;39,62;9;Credit card
+C;Naypyitaw;Member;Female;Food and beverages;;21,04;4;Cash
+A;Yangon;Member;Male;Home and lifestyle;;81,01;3;Credit card
+C;Naypyitaw;Normal;Male;Electronic accessories;;61,41;7;Cash
+B;Mandalay;Normal;Male;Food and beverages;;73,06;7;Credit card
+A;Yangon;Member;Female;Fashion accessories;;96,7;5;Ewallet
+B;Mandalay;Normal;Female;Food and beverages;;99,69;5;Cash
+C;Naypyitaw;Normal;Male;Food and beverages;;31,77;4;Ewallet
+B;Mandalay;Member;Female;Fashion accessories;;18,08;4;Credit card
+A;Yangon;Member;Male;Fashion accessories;;56,04;10;Ewallet
+B;Mandalay;Normal;Female;Sports and travel;;34,81;1;Credit card
+C;Naypyitaw;Normal;Male;Food and beverages;;84,83;1;Ewallet
+C;Naypyitaw;Member;Male;Health and beauty;;60,47;3;Credit card
+B;Mandalay;Normal;Female;Health and beauty;;17,75;1;Cash
+C;Naypyitaw;Normal;Male;Health and beauty;;53,19;7;Ewallet
+C;Naypyitaw;Member;Female;Electronic accessories;;44,84;9;Credit card
+B;Mandalay;Member;Female;Sports and travel;;93,72;6;Cash
+A;Yangon;Normal;Female;Electronic accessories;;60,88;9;Ewallet
+B;Mandalay;Normal;Female;Fashion accessories;;73,52;2;Ewallet
+C;Naypyitaw;Member;Male;Food and beverages;;17,44;5;Cash
+A;Yangon;Member;Female;Home and lifestyle;;89,21;9;Credit card
+A;Yangon;Normal;Female;Sports and travel;;19,1;7;Cash
+A;Yangon;Member;Male;Food and beverages;;83,77;2;Credit card
+B;Mandalay;Member;Male;Health and beauty;;66,47;10;Credit card
+B;Mandalay;Normal;Male;Electronic accessories;;75,66;5;Ewallet
+C;Naypyitaw;Member;Male;Health and beauty;;81,23;7;Cash
+A;Yangon;Normal;Female;Home and lifestyle;;11,43;6;Cash
+B;Mandalay;Normal;Female;Home and lifestyle;;97,37;10;Credit card
+C;Naypyitaw;Normal;Male;Electronic accessories;;55,87;10;Cash
+B;Mandalay;Member;Male;Fashion accessories;;51,36;1;Ewallet
+C;Naypyitaw;Normal;Male;Home and lifestyle;;95,58;10;Cash
+C;Naypyitaw;Normal;Female;Food and beverages;;93,26;9;Cash
+B;Mandalay;Member;Female;Sports and travel;;90,74;7;Credit card
+B;Mandalay;Normal;Male;Fashion accessories;;39,21;4;Credit card
+C;Naypyitaw;Member;Female;Sports and travel;;15,49;2;Cash
+C;Naypyitaw;Member;Male;Sports and travel;;17,14;7;Credit card
+A;Yangon;Member;Male;Home and lifestyle;;63,56;10;Cash
+C;Naypyitaw;Normal;Female;Food and beverages;;52,6;9;Cash
+A;Yangon;Normal;Female;Sports and travel;;93,18;2;Credit card
+B;Mandalay;Member;Female;Home and lifestyle;;86,72;1;Ewallet
+A;Yangon;Normal;Male;Home and lifestyle;;21,52;6;Credit card
+C;Naypyitaw;Member;Male;Sports and travel;;71,92;5;Credit card
+A;Yangon;Normal;Female;Food and beverages;;81,21;10;Credit card
+B;Mandalay;Member;Male;Food and beverages;;57,89;2;Ewallet
+B;Mandalay;Member;Female;Home and lifestyle;;94,59;7;Credit card
+B;Mandalay;Normal;Female;Sports and travel;;40,62;2;Credit card
+A;Yangon;Normal;Male;Sports and travel;;25,7;3;Ewallet
+C;Naypyitaw;Member;Male;Food and beverages;;65,65;2;Cash
+A;Yangon;Normal;Male;Sports and travel;;58,91;7;Ewallet
+C;Naypyitaw;Member;Female;Health and beauty;;62,82;2;Ewallet
+A;Yangon;Normal;Female;Electronic accessories;;26,31;5;Credit card
+B;Mandalay;Normal;Male;Food and beverages;;19,79;8;Ewallet
+C;Naypyitaw;Normal;Female;Health and beauty;;39,42;1;Cash
+A;Yangon;Member;Male;Home and lifestyle;;19,36;9;Ewallet
+A;Yangon;Member;Female;Fashion accessories;;88,15;3;Ewallet
+B;Mandalay;Member;Female;Fashion accessories;;17,48;6;Credit card
+C;Naypyitaw;Member;Female;Sports and travel;;90,63;9;Cash
+A;Yangon;Member;Male;Sports and travel;;89,06;6;Cash
+C;Naypyitaw;Normal;Male;Fashion accessories;;60,74;7;Ewallet
+A;Yangon;Member;Male;Home and lifestyle;;58,07;9;Ewallet
+C;Naypyitaw;Normal;Female;Food and beverages;;43,18;8;Credit card
+A;Yangon;Normal;Male;Food and beverages;;51,28;6;Cash
+B;Mandalay;Member;Male;Electronic accessories;;52,89;6;Credit card
+C;Naypyitaw;Member;Female;Home and lifestyle;;88,61;1;Cash
+A;Yangon;Member;Male;Sports and travel;;67,26;4;Credit card
+B;Mandalay;Normal;Male;Sports and travel;;63,06;3;Ewallet
+C;Naypyitaw;Member;Male;Sports and travel;;80,93;1;Credit card
+A;Yangon;Normal;Male;Sports and travel;;64,19;10;Credit card
+A;Yangon;Member;Male;Electronic accessories;;11,94;3;Credit card
+A;Yangon;Normal;Male;Food and beverages;;33,88;8;Ewallet
+A;Yangon;Normal;Female;Fashion accessories;;99,1;6;Cash
+B;Mandalay;Member;Female;Electronic accessories;;12,1;8;Ewallet
+C;Naypyitaw;Normal;Female;Electronic accessories;;56,13;4;Ewallet
+A;Yangon;Normal;Female;Home and lifestyle;;45,68;10;Ewallet
+C;Naypyitaw;Member;Male;Food and beverages;;59,59;4;Cash
+A;Yangon;Member;Female;Home and lifestyle;;72,35;10;Cash
+B;Mandalay;Normal;Male;Home and lifestyle;;53,44;2;Ewallet
+A;Yangon;Normal;Female;Sports and travel;;93,14;2;Ewallet
+C;Naypyitaw;Member;Female;Home and lifestyle;;89,25;8;Cash
+C;Naypyitaw;Member;Male;Sports and travel;;82,93;4;Ewallet
+B;Mandalay;Normal;Male;Home and lifestyle;;37,48;3;Credit card
+C;Naypyitaw;Normal;Male;Fashion accessories;;15,62;8;Ewallet
+A;Yangon;Member;Female;Fashion accessories;;63,88;8;Ewallet
+A;Yangon;Member;Male;Health and beauty;;55,5;4;Credit card
+C;Naypyitaw;Normal;Male;Health and beauty;;64,08;7;Ewallet
+A;Yangon;Normal;Male;Food and beverages;;54,67;3;Credit card
+C;Naypyitaw;Normal;Female;Health and beauty;;99,19;6;Credit card
+A;Yangon;Normal;Female;Home and lifestyle;;77,95;6;Ewallet
+A;Yangon;Member;Female;Food and beverages;;36,36;2;Cash
+A;Yangon;Normal;Male;Home and lifestyle;;73,22;6;Cash
+A;Yangon;Member;Male;Health and beauty;;53,17;7;Cash
+B;Mandalay;Member;Female;Sports and travel;;98,13;1;Cash
+C;Naypyitaw;Member;Male;Food and beverages;;68,98;1;Cash
+A;Yangon;Normal;Male;Home and lifestyle;;74,67;9;Ewallet
+C;Naypyitaw;Normal;Female;Health and beauty;;20,38;5;Cash
+C;Naypyitaw;Member;Female;Health and beauty;;81,51;1;Ewallet
+C;Naypyitaw;Member;Male;Home and lifestyle;;39,39;5;Credit card
+A;Yangon;Normal;Male;Home and lifestyle;;30,68;3;Ewallet
+B;Mandalay;Normal;Female;Health and beauty;;55,81;6;Cash
+B;Mandalay;Normal;Female;Food and beverages;;28,86;5;Credit card
+C;Naypyitaw;Normal;Male;Food and beverages;;19,25;8;Ewallet
+C;Naypyitaw;Member;Female;Home and lifestyle;;47,38;4;Cash
+C;Naypyitaw;Member;Female;Sports and travel;;89,8;10;Credit card
+C;Naypyitaw;Member;Male;Food and beverages;;38,47;8;Cash
+A;Yangon;Member;Male;Fashion accessories;;17,94;5;Ewallet
+C;Naypyitaw;Normal;Female;Electronic accessories;;84,05;3;Cash
+C;Naypyitaw;Member;Female;Home and lifestyle;;83,77;6;Ewallet
+A;Yangon;Normal;Female;Electronic accessories;;66,06;6;Cash
+C;Naypyitaw;Normal;Male;Electronic accessories;;83,08;1;Ewallet
+A;Yangon;Normal;Male;Fashion accessories;;30,61;1;Ewallet
+A;Yangon;Member;Male;Food and beverages;;98,53;6;Credit card
+C;Naypyitaw;Normal;Female;Health and beauty;;10,99;5;Credit card
+C;Naypyitaw;Normal;Female;Fashion accessories;;45,44;7;Cash
+A;Yangon;Member;Female;Health and beauty;;95,95;5;Ewallet
+A;Yangon;Member;Female;Food and beverages;;47,63;9;Cash
+A;Yangon;Normal;Male;Health and beauty;;58,15;4;Cash
+C;Naypyitaw;Normal;Male;Health and beauty;;99,96;7;Cash
+A;Yangon;Normal;Male;Sports and travel;;78,77;10;Cash
+B;Mandalay;Member;Male;Electronic accessories;;40,3;10;Credit card
+A;Yangon;Normal;Female;Health and beauty;;77,5;5;Ewallet
+A;Yangon;Member;Male;Fashion accessories;;86,68;8;Credit card
+B;Mandalay;Member;Male;Fashion accessories;;93,22;3;Cash
+B;Mandalay;Member;Female;Sports and travel;;23,08;6;Ewallet
+B;Mandalay;Normal;Male;Electronic accessories;;75,88;7;Ewallet
+B;Mandalay;Normal;Male;Home and lifestyle;;73,28;5;Ewallet
+C;Naypyitaw;Member;Female;Home and lifestyle;;60,87;1;Cash
+A;Yangon;Member;Female;Electronic accessories;;48,62;8;Cash
+A;Yangon;Normal;Male;Electronic accessories;;10,56;8;Cash
+C;Naypyitaw;Member;Male;Home and lifestyle;;85,72;3;Ewallet
+B;Mandalay;Normal;Female;Sports and travel;;76,6;10;Ewallet
+B;Mandalay;Normal;Female;Food and beverages;;88,36;5;Cash
+C;Naypyitaw;Member;Male;Fashion accessories;;15,43;1;Credit card
+B;Mandalay;Normal;Female;Fashion accessories;;39,62;7;Cash
+C;Naypyitaw;Member;Male;Health and beauty;;90,5;10;Cash
+C;Naypyitaw;Normal;Male;Health and beauty;;34,31;8;Ewallet
+A;Yangon;Normal;Male;Electronic accessories;;26,23;9;Ewallet
+B;Mandalay;Normal;Female;Food and beverages;;48,51;7;Credit card
+A;Yangon;Member;Male;Home and lifestyle;;60,01;4;Cash
+B;Mandalay;Member;Male;Health and beauty;;51,13;4;Credit card
+B;Mandalay;Normal;Female;Fashion accessories;;60,96;2;Credit card
+B;Mandalay;Normal;Male;Sports and travel;;21,87;2;Ewallet
+B;Mandalay;Normal;Male;Health and beauty;;96,11;1;Ewallet
+A;Yangon;Member;Female;Sports and travel;;40,05;4;Cash
+A;Yangon;Member;Male;Home and lifestyle;;53,3;3;Ewallet
+C;Naypyitaw;Member;Female;Sports and travel;;70,19;9;Cash
+C;Naypyitaw;Member;Female;Fashion accessories;;84,87;3;Ewallet
+A;Yangon;Normal;Male;Fashion accessories;;74,1;1;Cash
+B;Mandalay;Normal;Female;Food and beverages;;96,68;3;Ewallet
+C;Naypyitaw;Normal;Female;Sports and travel;;44,86;10;Ewallet
+B;Mandalay;Member;Male;Food and beverages;;80,05;5;Credit card
+B;Mandalay;Normal;Male;Home and lifestyle;;25,55;4;Ewallet
+B;Mandalay;Member;Male;Health and beauty;;69,37;9;Ewallet
+B;Mandalay;Normal;Female;Fashion accessories;;81,37;2;Cash
+A;Yangon;Normal;Male;Electronic accessories;;51,69;7;Cash
+B;Mandalay;Normal;Female;Fashion accessories;;37,95;10;Cash
+B;Mandalay;Normal;Female;Sports and travel;;51,54;5;Cash
+C;Naypyitaw;Normal;Female;Fashion accessories;;36,85;5;Cash
+C;Naypyitaw;Normal;Female;Fashion accessories;;64,99;1;Credit card
+B;Mandalay;Member;Female;Food and beverages;;78,88;2;Cash
+A;Yangon;Normal;Female;Fashion accessories;;12,09;1;Credit card
+A;Yangon;Normal;Male;Fashion accessories;;21,32;1;Cash
+C;Naypyitaw;Member;Male;Health and beauty;;33,81;3;Ewallet
+B;Mandalay;Normal;Male;Food and beverages;;33,33;2;Credit card
+B;Mandalay;Normal;Male;Electronic accessories;;87,08;7;Cash
+A;Yangon;Member;Male;Health and beauty;;58,22;8;Ewallet
+A;Yangon;Normal;Female;Sports and travel;;32,25;5;Cash
+A;Yangon;Normal;Female;Home and lifestyle;;12,03;2;Cash
+C;Naypyitaw;Normal;Female;Sports and travel;;14,36;10;Cash
+C;Naypyitaw;Member;Female;Fashion accessories;;54,07;9;Ewallet
+C;Naypyitaw;Member;Female;Electronic accessories;;46,57;10;Cash
+C;Naypyitaw;Normal;Female;Food and beverages;;90,24;6;Cash
+C;Naypyitaw;Normal;Male;Home and lifestyle;;69,4;2;Ewallet
+A;Yangon;Normal;Female;Fashion accessories;;54,28;7;Ewallet
+A;Yangon;Normal;Male;Food and beverages;;81,71;6;Credit card
+C;Naypyitaw;Member;Female;Home and lifestyle;;24,24;7;Ewallet
+B;Mandalay;Member;Male;Health and beauty;;96,16;4;Credit card
+A;Yangon;Member;Male;Electronic accessories;;73,26;1;Ewallet
+B;Mandalay;Normal;Female;Home and lifestyle;;49,01;10;Credit card
+B;Mandalay;Member;Male;Sports and travel;;78,07;9;Cash
+C;Naypyitaw;Normal;Female;Sports and travel;;80,97;8;Cash
+C;Naypyitaw;Member;Male;Health and beauty;;86,8;3;Ewallet
+C;Naypyitaw;Normal;Female;Home and lifestyle;;69,81;4;Credit card
+C;Naypyitaw;Normal;Male;Health and beauty;;17,41;5;Credit card
+C;Naypyitaw;Normal;Female;Fashion accessories;;23,82;5;Ewallet
+B;Mandalay;Member;Female;Health and beauty;;19,15;1;Credit card
+A;Yangon;Member;Male;Electronic accessories;;24,18;8;Ewallet
+C;Naypyitaw;Member;Male;Electronic accessories;;18,77;6;Credit card
+B;Mandalay;Member;Female;Health and beauty;;72,11;9;Credit card
+B;Mandalay;Member;Female;Electronic accessories;;21,43;10;Cash
+B;Mandalay;Normal;Male;Health and beauty;;99,16;8;Credit card
+A;Yangon;Normal;Male;Food and beverages;;11,53;7;Cash
+B;Mandalay;Member;Male;Health and beauty;;75,37;8;Credit card
+A;Yangon;Normal;Male;Fashion accessories;;83,24;9;Credit card
+C;Naypyitaw;Member;Female;Sports and travel;;19,15;6;Credit card
+B;Mandalay;Member;Male;Fashion accessories;;32,62;4;Cash
+C;Naypyitaw;Normal;Male;Fashion accessories;;42,08;6;Cash
+A;Yangon;Normal;Male;Electronic accessories;;38,6;1;Ewallet
+B;Mandalay;Normal;Female;Food and beverages;;84,05;6;Credit card
+B;Mandalay;Member;Male;Sports and travel;;26,67;10;Cash
+A;Yangon;Member;Female;Sports and travel;;27,93;5;Cash
+A;Yangon;Member;Female;Home and lifestyle;;87,37;5;Cash
+C;Naypyitaw;Normal;Male;Electronic accessories;;58,76;10;Ewallet
+A;Yangon;Member;Female;Sports and travel;;22,01;4;Credit card
+C;Naypyitaw;Normal;Male;Health and beauty;;40,35;1;Ewallet
+C;Naypyitaw;Normal;Male;Sports and travel;;76,4;2;Ewallet
+C;Naypyitaw;Normal;Female;Food and beverages;;97,03;5;Ewallet
+B;Mandalay;Normal;Female;Electronic accessories;;23,65;4;Credit card
+C;Naypyitaw;Normal;Male;Home and lifestyle;;22,96;1;Cash
+C;Naypyitaw;Member;Female;Food and beverages;;98,52;10;Ewallet
+B;Mandalay;Normal;Female;Electronic accessories;;42,42;8;Ewallet
+C;Naypyitaw;Member;Female;Home and lifestyle;;10,53;5;Credit card
+A;Yangon;Member;Male;Electronic accessories;;93,78;3;Credit card
+C;Naypyitaw;Normal;Female;Sports and travel;;22,38;1;Credit card
+B;Mandalay;Normal;Male;Electronic accessories;;45,35;6;Ewallet
+C;Naypyitaw;Member;Male;Electronic accessories;;37,06;4;Ewallet
+A;Yangon;Member;Male;Electronic accessories;;66,35;1;Credit card
+C;Naypyitaw;Normal;Female;Sports and travel;;23,75;9;Cash
+B;Mandalay;Member;Male;Sports and travel;;79,93;6;Cash
+B;Mandalay;Member;Male;Sports and travel;;75,82;1;Cash
+B;Mandalay;Normal;Male;Fashion accessories;;69,08;2;Credit card
+A;Yangon;Member;Male;Electronic accessories;;20,77;4;Cash
+B;Mandalay;Normal;Female;Electronic accessories;;43;4;Ewallet
+C;Naypyitaw;Member;Male;Fashion accessories;;98,7;8;Ewallet
+B;Mandalay;Normal;Male;Electronic accessories;;72,13;10;Credit card
+B;Mandalay;Member;Male;Electronic accessories;;87,87;9;Ewallet
+C;Naypyitaw;Normal;Female;Fashion accessories;;62,18;10;Ewallet
+A;Yangon;Member;Male;Fashion accessories;;51,34;8;Ewallet
+C;Naypyitaw;Normal;Female;Fashion accessories;;22,51;7;Credit card
+A;Yangon;Member;Male;Electronic accessories;;32,25;4;Ewallet
+A;Yangon;Member;Male;Electronic accessories;;76,82;1;Ewallet
+B;Mandalay;Member;Female;Fashion accessories;;29,56;5;Cash
+B;Mandalay;Member;Female;Sports and travel;;20,18;4;Credit card
+C;Naypyitaw;Member;Female;Fashion accessories;;92,98;2;Credit card
+B;Mandalay;Normal;Male;Sports and travel;;13,69;6;Cash
+C;Naypyitaw;Member;Female;Food and beverages;;14,87;2;Credit card
+B;Mandalay;Member;Male;Health and beauty;;75,74;4;Cash
+A;Yangon;Normal;Female;Electronic accessories;;99,56;8;Credit card
+C;Naypyitaw;Member;Male;Food and beverages;;99,37;2;Cash
+A;Yangon;Normal;Male;Sports and travel;;44,65;3;Cash
+C;Naypyitaw;Member;Male;Food and beverages;;27,66;10;Credit card
+B;Mandalay;Member;Female;Sports and travel;;60,08;7;Credit card
+A;Yangon;Member;Male;Health and beauty;;91,3;1;Ewallet
+C;Naypyitaw;Normal;Female;Health and beauty;;58,32;2;Ewallet
+C;Naypyitaw;Member;Female;Sports and travel;;24,74;3;Credit card
+B;Mandalay;Normal;Female;Fashion accessories;;72,84;7;Cash
+B;Mandalay;Member;Male;Home and lifestyle;;17,77;5;Credit card
+A;Yangon;Normal;Female;Home and lifestyle;;69,96;8;Credit card
+A;Yangon;Normal;Male;Health and beauty;;15,26;6;Ewallet
+B;Mandalay;Member;Female;Health and beauty;;76,9;7;Cash
+C;Naypyitaw;Member;Female;Fashion accessories;;99,3;10;Credit card
+C;Naypyitaw;Member;Female;Fashion accessories;;80,48;3;Cash
+B;Mandalay;Member;Female;Food and beverages;;77,4;9;Credit card
+C;Naypyitaw;Member;Female;Electronic accessories;;98,84;1;Cash
+C;Naypyitaw;Normal;Female;Electronic accessories;;32,8;10;Cash
+A;Yangon;Normal;Male;Food and beverages;;52,2;3;Credit card
+C;Naypyitaw;Normal;Male;Health and beauty;;33,64;8;Credit card
+A;Yangon;Normal;Female;Food and beverages;;67,1;3;Cash
+C;Naypyitaw;Member;Male;Health and beauty;;68,55;4;Credit card
+A;Yangon;Normal;Male;Fashion accessories;;51,94;3;Cash
+B;Mandalay;Normal;Male;Health and beauty;;57,59;6;Cash
+B;Mandalay;Member;Male;Sports and travel;;88,31;1;Credit card
+B;Mandalay;Normal;Female;Electronic accessories;;88,25;9;Credit card
+B;Mandalay;Normal;Male;Sports and travel;;51,91;10;Cash
+C;Naypyitaw;Member;Female;Fashion accessories;;97,79;7;Ewallet
+B;Mandalay;Member;Male;Fashion accessories;;91,35;1;Cash
+C;Naypyitaw;Member;Male;Electronic accessories;;12,05;5;Ewallet
+B;Mandalay;Member;Male;Fashion accessories;;60,18;4;Credit card
+C;Naypyitaw;Member;Female;Health and beauty;;47,71;6;Ewallet
+B;Mandalay;Normal;Female;Fashion accessories;;36,51;9;Cash
+A;Yangon;Member;Male;Food and beverages;;24,82;7;Credit card
+A;Yangon;Normal;Male;Electronic accessories;;34,56;5;Ewallet
+B;Mandalay;Member;Male;Electronic accessories;;87,45;6;Credit card
+C;Naypyitaw;Member;Female;Food and beverages;;71,39;5;Credit card
+C;Naypyitaw;Normal;Male;Electronic accessories;;11,81;5;Cash
+A;Yangon;Member;Female;Home and lifestyle;;88,79;8;Cash
+A;Yangon;Normal;Male;Food and beverages;;32,9;3;Credit card
+A;Yangon;Member;Male;Food and beverages;;80,96;8;Credit card
+A;Yangon;Normal;Male;Sports and travel;;98,09;9;Cash
+C;Naypyitaw;Normal;Female;Sports and travel;;46,66;9;Ewallet
+A;Yangon;Normal;Male;Fashion accessories;;45,38;3;Credit card
+B;Mandalay;Member;Female;Electronic accessories;;35,74;8;Ewallet
+C;Naypyitaw;Member;Female;Sports and travel;;67,99;7;Ewallet
+A;Yangon;Member;Female;Health and beauty;;92,09;3;Cash
+C;Naypyitaw;Normal;Male;Fashion accessories;;90,22;3;Cash
+A;Yangon;Member;Female;Home and lifestyle;;34,42;6;Cash
+A;Yangon;Member;Female;Electronic accessories;;62,48;1;Cash
+C;Naypyitaw;Member;Male;Health and beauty;;44,07;4;Ewallet
+B;Mandalay;Normal;Female;Health and beauty;;14,76;2;Ewallet
+C;Naypyitaw;Member;Female;Electronic accessories;;60,95;1;Ewallet
+A;Yangon;Member;Female;Fashion accessories;;88,34;7;Cash
+C;Naypyitaw;Normal;Female;Food and beverages;;41,24;4;Cash
+B;Mandalay;Member;Female;Sports and travel;;64,08;7;Credit card
+A;Yangon;Member;Male;Electronic accessories;;69,58;9;Credit card
+C;Naypyitaw;Normal;Female;Electronic accessories;;77,63;9;Ewallet
+C;Naypyitaw;Normal;Male;Health and beauty;;21,8;8;Cash
+C;Naypyitaw;Normal;Male;Electronic accessories;;71,89;8;Ewallet
+A;Yangon;Normal;Female;Fashion accessories;;98,48;2;Ewallet
+A;Yangon;Normal;Male;Health and beauty;;50,79;5;Credit card
+A;Yangon;Member;Female;Food and beverages;;98,66;9;Cash
+B;Mandalay;Member;Female;Food and beverages;;54,84;3;Credit card
+A;Yangon;Member;Male;Food and beverages;;92,29;5;Credit card
+B;Mandalay;Normal;Male;Food and beverages;;39,9;10;Credit card
+B;Mandalay;Normal;Male;Health and beauty;;66,68;5;Cash
+A;Yangon;Normal;Female;Health and beauty;;32,32;10;Credit card
+B;Mandalay;Normal;Male;Food and beverages;;60,3;4;Cash
+B;Mandalay;Member;Male;Food and beverages;;57,74;3;Ewallet
+A;Yangon;Member;Male;Home and lifestyle;;37,69;2;Ewallet
+C;Naypyitaw;Member;Female;Home and lifestyle;;86,27;1;Ewallet
+B;Mandalay;Member;Male;Sports and travel;;31,99;10;Credit card
+A;Yangon;Member;Female;Electronic accessories;;94,64;3;Cash
+C;Naypyitaw;Member;Female;Fashion accessories;;12,54;1;Cash
+B;Mandalay;Member;Male;Fashion accessories;;73,82;4;Cash
+C;Naypyitaw;Normal;Female;Sports and travel;;98,8;2;Cash
+C;Naypyitaw;Normal;Female;Health and beauty;;83,66;5;Cash
+B;Mandalay;Member;Male;Health and beauty;;39,91;3;Ewallet
+C;Naypyitaw;Member;Female;Food and beverages;;30,41;1;Credit card
+C;Naypyitaw;Normal;Male;Sports and travel;;95,49;7;Ewallet
+B;Mandalay;Normal;Female;Fashion accessories;;39,75;5;Ewallet
+B;Mandalay;Normal;Female;Fashion accessories;;47,44;1;Credit card
+B;Mandalay;Normal;Female;Fashion accessories;;54,31;9;Cash
+A;Yangon;Member;Female;Electronic accessories;;17,42;10;Ewallet
+A;Yangon;Member;Female;Sports and travel;;24,49;10;Cash
+B;Mandalay;Normal;Male;Home and lifestyle;;68,97;3;Ewallet
+C;Naypyitaw;Member;Female;Home and lifestyle;;12,73;2;Credit card
+B;Mandalay;Normal;Male;Fashion accessories;;17,49;10;Ewallet
+A;Yangon;Normal;Male;Home and lifestyle;;65,82;1;Cash
+C;Naypyitaw;Member;Female;Food and beverages;;80,36;4;Credit card
+B;Mandalay;Normal;Female;Electronic accessories;;14,96;8;Cash
+C;Naypyitaw;Normal;Male;Food and beverages;;35,89;1;Credit card
+C;Naypyitaw;Member;Male;Sports and travel;;58,39;7;Credit card
+B;Mandalay;Member;Female;Food and beverages;;98,79;3;Ewallet
+B;Mandalay;Normal;Female;Health and beauty;;17,97;4;Ewallet
+A;Yangon;Member;Female;Food and beverages;;73,47;4;Cash
+B;Mandalay;Member;Female;Electronic accessories;;75,59;9;Cash
+C;Naypyitaw;Normal;Female;Home and lifestyle;;73,56;10;Ewallet
+C;Naypyitaw;Normal;Male;Home and lifestyle;;55,73;6;Ewallet
+B;Mandalay;Normal;Female;Sports and travel;;57,95;6;Cash
+C;Naypyitaw;Normal;Male;Electronic accessories;;24,74;10;Cash
+B;Mandalay;Member;Male;Fashion accessories;78.773;83,77;2;Cash
+C;Naypyitaw;Member;Female;Health and beauty;78.774;10,16;5;Ewallet
+A;Yangon;Normal;Female;Electronic accessories;78.775;40,26;10;Credit card
+A;Yangon;Member;Female;Home and lifestyle;78.776;47,68;2;Credit card
+B;Mandalay;Normal;Female;Food and beverages;78.777;26,43;8;Ewallet
+A;Yangon;Member;Female;Electronic accessories;78.778;68,84;6;Ewallet
+C;Naypyitaw;Member;Male;Electronic accessories;78.779;86,04;5;Ewallet
+B;Mandalay;Normal;Male;Fashion accessories;78.780;94,13;5;Credit card
+A;Yangon;Normal;Male;Sports and travel;78.781;63,69;1;Cash
+B;Mandalay;Member;Male;Health and beauty;78.782;42,57;8;Ewallet
+C;Naypyitaw;Normal;Male;Food and beverages;78.783;48,61;1;Cash
+A;Yangon;Normal;Male;Health and beauty;78.784;65,18;3;Credit card
+B;Mandalay;Normal;Male;Sports and travel;78.785;88,45;1;Credit card
+A;Yangon;Member;Female;Sports and travel;78.786;91,41;5;Ewallet
+A;Yangon;Normal;Female;Fashion accessories;78.787;73,05;4;Credit card
+B;Mandalay;Member;Female;Home and lifestyle;78.788;82,04;5;Credit card
+B;Mandalay;Normal;Male;Health and beauty;78.789;62,57;4;Cash
+B;Mandalay;Normal;Female;Electronic accessories;78.790;52,79;10;Ewallet
+B;Mandalay;Member;Male;Electronic accessories;78.791;39,75;1;Cash
+A;Yangon;Member;Female;Food and beverages;78.792;99,6;3;Cash
+B;Mandalay;Member;Female;Food and beverages;78.793;62,85;4;Ewallet
+B;Mandalay;Member;Female;Electronic accessories;78.794;90,7;6;Cash
+B;Mandalay;Normal;Male;Sports and travel;78.795;54,45;1;Ewallet
+B;Mandalay;Normal;Female;Health and beauty;78.796;99,71;6;Ewallet
+C;Naypyitaw;Normal;Female;Food and beverages;78.797;22,93;9;Cash
+B;Mandalay;Normal;Male;Fashion accessories;78.798;99,89;2;Ewallet
+A;Yangon;Member;Male;Fashion accessories;78.799;55,45;1;Credit card
+B;Mandalay;Member;Female;Sports and travel;78.800;95,54;4;Ewallet
+A;Yangon;Normal;Female;Electronic accessories;78.801;46,61;2;Credit card
+B;Mandalay;Member;Male;Food and beverages;78.802;26,6;6;Ewallet
+B;Mandalay;Member;Male;Health and beauty;78.803;56,69;9;Credit card
+B;Mandalay;Normal;Female;Health and beauty;78.804;76,99;6;Cash
+A;Yangon;Normal;Female;Fashion accessories;78.805;77,93;9;Ewallet
+B;Mandalay;Normal;Female;Health and beauty;78.806;13,5;10;Credit card
+C;Naypyitaw;Normal;Female;Food and beverages;78.807;94,47;8;Cash
+B;Mandalay;Normal;Male;Sports and travel;78.808;67,27;5;Cash
+B;Mandalay;Normal;Male;Fashion accessories;78.809;52,42;3;Ewallet
+C;Naypyitaw;Normal;Female;Electronic accessories;78.810;99,69;1;Credit card
+A;Yangon;Member;Male;Fashion accessories;78.811;21,48;2;Ewallet
+B;Mandalay;Member;Female;Fashion accessories;78.812;19,77;10;Credit card
+A;Yangon;Member;Male;Food and beverages;78.813;18,85;10;Ewallet
+C;Naypyitaw;Member;Female;Health and beauty;78.814;85,87;7;Credit card
+A;Yangon;Member;Male;Electronic accessories;;92,6;7;Credit card
+A;Yangon;Normal;Female;Food and beverages;;74,44;10;Ewallet
+C;Naypyitaw;Normal;Female;Electronic accessories;;85,98;8;Cash
+C;Naypyitaw;Member;Male;Fashion accessories;;93,2;2;Credit card
+B;Mandalay;Normal;Female;Fashion accessories;;41,09;10;Cash
+A;Yangon;Member;Male;Food and beverages;;80,62;6;Cash
+A;Yangon;Normal;Male;Health and beauty;;56;3;Ewallet
+B;Mandalay;Normal;Male;Electronic accessories;;60,3;1;Cash
+A;Yangon;Member;Male;Health and beauty;;15,87;10;Cash
+C;Naypyitaw;Member;Male;Home and lifestyle;;63,91;8;Credit card
+A;Yangon;Normal;Male;Food and beverages;78.825;45,79;7;Credit card
+B;Mandalay;Member;Female;Fashion accessories;78.826;38,3;4;Cash
+B;Mandalay;Normal;Male;Health and beauty;78.827;18,11;10;Ewallet
+A;Yangon;Normal;Female;Food and beverages;78.828;54,27;5;Ewallet
+B;Mandalay;Normal;Female;Fashion accessories;78.829;34,7;2;Ewallet
+C;Naypyitaw;Member;Male;Sports and travel;78.830;72,88;2;Cash
+C;Naypyitaw;Normal;Male;Fashion accessories;78.831;56,5;1;Ewallet
+C;Naypyitaw;Normal;Female;Fashion accessories;78.832;12,19;8;Ewallet
+C;Naypyitaw;Normal;Male;Home and lifestyle;78.833;35,47;4;Credit card
+C;Naypyitaw;Normal;Male;Electronic accessories;78.834;27,85;7;Ewallet
+A;Yangon;Member;Male;Food and beverages;78.835;23,48;2;Credit card
+B;Mandalay;Member;Female;Fashion accessories;78.836;54,73;7;Credit card
+C;Naypyitaw;Normal;Female;Electronic accessories;78.837;51,32;9;Cash
+C;Naypyitaw;Normal;Female;Home and lifestyle;78.838;70,11;6;Ewallet
+A;Yangon;Normal;Male;Electronic accessories;78.839;99,55;7;Cash
+B;Mandalay;Normal;Male;Electronic accessories;78.840;21,58;9;Cash
+C;Naypyitaw;Normal;Male;Fashion accessories;78.841;59,61;10;Cash
+C;Naypyitaw;Normal;Male;Food and beverages;78.842;77,56;10;Ewallet
+C;Naypyitaw;Member;Male;Electronic accessories;78.843;87,91;5;Ewallet
+B;Mandalay;Member;Male;Health and beauty;78.844;82,58;10;Cash
+A;Yangon;Normal;Female;Electronic accessories;78.845;15,69;3;Credit card
+B;Mandalay;Member;Female;Fashion accessories;78.846;22,32;4;Ewallet
+B;Mandalay;Normal;Female;Food and beverages;78.847;53,21;8;Ewallet
+C;Naypyitaw;Member;Male;Sports and travel;78.848;42,85;1;Credit card
+C;Naypyitaw;Member;Female;Sports and travel;78.849;35,22;6;Ewallet
+A;Yangon;Member;Female;Sports and travel;78.850;97,48;9;Ewallet
+B;Mandalay;Normal;Male;Home and lifestyle;78.851;33,2;2;Credit card
+A;Yangon;Normal;Male;Health and beauty;78.852;24,89;9;Cash
+A;Yangon;Normal;Male;Health and beauty;78.853;96,58;2;Credit card
+B;Mandalay;Member;Female;Electronic accessories;78.854;57,49;4;Cash
+B;Mandalay;Normal;Male;Home and lifestyle;78.855;13,59;9;Cash
+A;Yangon;Member;Female;Fashion accessories;78.856;19,66;10;Credit card
+B;Mandalay;Member;Male;Sports and travel;78.857;96,8;3;Cash
+B;Mandalay;Normal;Male;Fashion accessories;78.858;27,18;2;Ewallet
+B;Mandalay;Normal;Male;Health and beauty;78.859;92,78;1;Credit card
+B;Mandalay;Normal;Male;Health and beauty;78.860;10,75;8;Ewallet
+B;Mandalay;Member;Male;Sports and travel;78.861;90,53;8;Credit card
+C;Naypyitaw;Normal;Male;Home and lifestyle;78.862;65,26;8;Ewallet
+C;Naypyitaw;Member;Male;Health and beauty;78.863;15,37;2;Cash
+A;Yangon;Normal;Male;Sports and travel;78.864;72,5;8;Ewallet
+C;Naypyitaw;Normal;Female;Food and beverages;78.865;87,8;9;Cash
+A;Yangon;Normal;Male;Home and lifestyle;78.866;23,75;4;Cash
+B;Mandalay;Normal;Male;Sports and travel;78.867;74,97;1;Cash
+A;Yangon;Normal;Female;Food and beverages;78.868;63,61;5;Ewallet
+B;Mandalay;Normal;Male;Sports and travel;78.869;34,37;10;Ewallet
+C;Naypyitaw;Normal;Male;Fashion accessories;78.870;97,26;4;Ewallet
+B;Mandalay;Normal;Female;Electronic accessories;78.871;95,64;4;Cash
+C;Naypyitaw;Member;Male;Fashion accessories;78.872;35,19;10;Credit card
+C;Naypyitaw;Member;Female;Food and beverages;78.873;22,62;1;Cash
+B;Mandalay;Normal;Female;Sports and travel;78.874;54,51;6;Ewallet
+A;Yangon;Normal;Female;Home and lifestyle;78.875;77,47;4;Cash
+B;Mandalay;Normal;Female;Home and lifestyle;78.876;11,28;9;Credit card
+A;Yangon;Member;Male;Sports and travel;78.877;76,92;10;Ewallet
+C;Naypyitaw;Member;Female;Home and lifestyle;78.878;28,53;10;Ewallet
+A;Yangon;Normal;Female;Electronic accessories;78.879;51,19;4;Credit card
+A;Yangon;Normal;Female;Sports and travel;78.880;33,26;5;Credit card
+C;Naypyitaw;Member;Female;Fashion accessories;78.881;51,47;1;Ewallet
+B;Mandalay;Normal;Male;Home and lifestyle;78.882;99,7;3;Ewallet
+B;Mandalay;Normal;Male;Home and lifestyle;78.883;44,12;3;Credit card
+C;Naypyitaw;Member;Male;Fashion accessories;78.884;91,98;1;Cash
+C;Naypyitaw;Member;Female;Fashion accessories;78.885;82,63;10;Ewallet
+B;Mandalay;Normal;Male;Health and beauty;78.886;30,35;7;Cash
+C;Naypyitaw;Normal;Male;Health and beauty;78.887;66,14;4;Credit card
+A;Yangon;Normal;Male;Electronic accessories;78.888;32,71;5;Credit card
+A;Yangon;Normal;Female;Electronic accessories;78.889;75,06;9;Ewallet
+A;Yangon;Normal;Male;Fashion accessories;78.890;76,4;9;Ewallet
+C;Naypyitaw;Normal;Female;Electronic accessories;78.891;26,61;2;Cash
+B;Mandalay;Member;Male;Fashion accessories;78.892;25,42;8;Credit card
+C;Naypyitaw;Normal;Male;Sports and travel;78.893;99,24;9;Ewallet
+B;Mandalay;Member;Male;Home and lifestyle;78.894;38,81;4;Ewallet
+C;Naypyitaw;Normal;Female;Electronic accessories;78.895;46,2;1;Cash
+C;Naypyitaw;Member;Female;Electronic accessories;78.896;88,55;8;Ewallet
+C;Naypyitaw;Member;Female;Home and lifestyle;78.897;75,53;4;Ewallet
+A;Yangon;Member;Male;Home and lifestyle;78.898;23,29;4;Credit card
+A;Yangon;Member;Female;Food and beverages;78.899;83,34;2;Cash
+A;Yangon;Normal;Female;Fashion accessories;78.900;15,5;1;Credit card
+B;Mandalay;Normal;Male;Home and lifestyle;78.901;92,36;5;Ewallet
+A;Yangon;Normal;Male;Food and beverages;78.902;43,25;2;Cash
+C;Naypyitaw;Member;Male;Fashion accessories;78.903;70,99;10;Cash
+A;Yangon;Member;Male;Sports and travel;78.904;44,02;10;Credit card
+B;Mandalay;Member;Female;Food and beverages;78.905;20,87;3;Credit card
+B;Mandalay;Normal;Male;Sports and travel;78.906;75,92;8;Cash
+C;Naypyitaw;Member;Female;Home and lifestyle;78.907;83,17;6;Cash
+A;Yangon;Member;Male;Electronic accessories;78.908;74,51;6;Ewallet
+B;Mandalay;Normal;Male;Fashion accessories;78.909;99,25;2;Cash
+A;Yangon;Member;Female;Sports and travel;78.910;38,72;9;Ewallet
+A;Yangon;Member;Female;Food and beverages;78.911;91,61;1;Cash
+B;Mandalay;Member;Male;Food and beverages;78.912;79,91;3;Credit card
+B;Mandalay;Member;Male;Fashion accessories;78.913;33,63;1;Cash
+A;Yangon;Normal;Male;Home and lifestyle;78.914;93,96;9;Cash
+C;Naypyitaw;Member;Male;Sports and travel;78.915;25,25;5;Cash
+A;Yangon;Member;Male;Home and lifestyle;78.916;33,84;9;Ewallet
+A;Yangon;Member;Female;Electronic accessories;78.917;26,48;3;Ewallet
+A;Yangon;Member;Female;Electronic accessories;78.918;28,45;5;Credit card
+B;Mandalay;Member;Female;Sports and travel;78.919;49,49;4;Ewallet
+A;Yangon;Normal;Female;Electronic accessories;78.920;90,02;8;Credit card
+C;Naypyitaw;Normal;Female;Food and beverages;78.921;57,29;6;Ewallet
+A;Yangon;Member;Female;Home and lifestyle;78.922;52,59;8;Credit card
+B;Mandalay;Member;Female;Fashion accessories;78.923;17,87;4;Ewallet
+A;Yangon;Normal;Male;Sports and travel;78.924;62,13;6;Cash
+A;Yangon;Normal;Male;Home and lifestyle;78.925;18,28;1;Credit card
+A;Yangon;Normal;Male;Home and lifestyle;78.926;50,93;8;Ewallet
+B;Mandalay;Member;Female;Sports and travel;78.927;88,43;8;Credit card
+B;Mandalay;Normal;Male;Sports and travel;78.928;37,02;6;Cash
+A;Yangon;Normal;Male;Sports and travel;78.929;85,91;5;Credit card
+A;Yangon;Normal;Male;Electronic accessories;78.930;95,15;1;Cash
+A;Yangon;Normal;Female;Food and beverages;78.931;56,56;5;Credit card
+C;Naypyitaw;Normal;Female;Health and beauty;78.932;54,92;8;Ewallet
+A;Yangon;Normal;Male;Food and beverages;78.933;52,75;3;Ewallet
+B;Mandalay;Member;Female;Fashion accessories;78.934;91,54;4;Credit card
+A;Yangon;Normal;Male;Food and beverages;78.935;73,88;6;Ewallet
+A;Yangon;Member;Male;Sports and travel;78.936;15,5;10;Ewallet
+A;Yangon;Normal;Female;Home and lifestyle;78.937;25,29;1;Ewallet
+A;Yangon;Normal;Male;Fashion accessories;78.938;37,15;4;Ewallet
+C;Naypyitaw;Member;Female;Home and lifestyle;78.939;81,2;7;Credit card
+C;Naypyitaw;Normal;Male;Home and lifestyle;78.940;55,61;7;Cash
+C;Naypyitaw;Member;Male;Fashion accessories;78.941;67,39;7;Ewallet
+A;Yangon;Member;Female;Electronic accessories;78.942;73,47;10;Ewallet
+C;Naypyitaw;Normal;Female;Food and beverages;78.943;33,98;9;Cash
+B;Mandalay;Normal;Female;Sports and travel;78.944;24,77;5;Cash
+C;Naypyitaw;Member;Male;Home and lifestyle;78.945;74,86;1;Cash
+C;Naypyitaw;Member;Male;Sports and travel;78.946;14,7;5;Ewallet
+A;Yangon;Member;Male;Home and lifestyle;78.947;65,94;4;Cash
+A;Yangon;Member;Female;Home and lifestyle;78.948;70,32;2;Ewallet
+B;Mandalay;Member;Female;Fashion accessories;78.949;58,75;6;Credit card
+C;Naypyitaw;Normal;Male;Electronic accessories;78.950;64,95;10;Cash
+C;Naypyitaw;Member;Female;Home and lifestyle;78.951;78,38;4;Cash
+B;Mandalay;Normal;Female;Health and beauty;78.952;82,88;5;Credit card
+B;Mandalay;Normal;Male;Home and lifestyle;78.953;99,92;6;Ewallet
+C;Naypyitaw;Normal;Male;Electronic accessories;78.954;85,39;7;Ewallet
+C;Naypyitaw;Normal;Male;Fashion accessories;78.955;76,52;5;Cash
+A;Yangon;Member;Male;Electronic accessories;78.956;36,36;4;Cash
+C;Naypyitaw;Normal;Female;Food and beverages;78.957;39,43;6;Credit card
+B;Mandalay;Normal;Female;Sports and travel;78.958;93,31;2;Cash
+A;Yangon;Member;Male;Electronic accessories;78.959;19,32;7;Cash
+A;Yangon;Normal;Female;Food and beverages;78.960;55,39;4;Ewallet
+B;Mandalay;Normal;Male;Electronic accessories;78.961;52,89;4;Ewallet
+A;Yangon;Normal;Female;Health and beauty;78.962;15,8;3;Cash
+C;Naypyitaw;Member;Male;Fashion accessories;78.963;48,71;1;Cash
+C;Naypyitaw;Member;Male;Health and beauty;78.964;43,7;2;Cash
+A;Yangon;Member;Male;Electronic accessories;78.965;72,2;7;Ewallet
+B;Mandalay;Member;Female;Sports and travel;78.966;39,12;1;Credit card
+B;Mandalay;Normal;Female;Electronic accessories;78.967;45,71;3;Credit card
+C;Naypyitaw;Normal;Female;Food and beverages;78.968;16,31;9;Ewallet
+A;Yangon;Normal;Female;Health and beauty;78.969;64,27;4;Cash
+B;Mandalay;Member;Female;Home and lifestyle;78.970;12,29;9;Credit card
+A;Yangon;Member;Female;Health and beauty;78.971;10,69;5;Ewallet
+A;Yangon;Member;Male;Fashion accessories;78.972;41,28;3;Credit card
+A;Yangon;Normal;Male;Fashion accessories;78.973;52,38;1;Cash
+A;Yangon;Member;Female;Health and beauty;78.974;27,73;5;Credit card
+C;Naypyitaw;Member;Male;Electronic accessories;78.975;84,25;2;Credit card
+A;Yangon;Member;Male;Home and lifestyle;78.976;44,34;2;Cash
+A;Yangon;Member;Male;Food and beverages;78.977;49,38;7;Credit card
+A;Yangon;Normal;Male;Health and beauty;78.978;32,46;8;Credit card
+B;Mandalay;Normal;Male;Sports and travel;78.979;93,39;6;Ewallet
+A;Yangon;Normal;Female;Food and beverages;78.980;52,34;3;Cash
+B;Mandalay;Member;Male;Electronic accessories;78.981;55,67;2;Ewallet
+B;Mandalay;Normal;Male;Food and beverages;78.982;32,32;3;Credit card
+A;Yangon;Member;Female;Food and beverages;78.983;79,54;2;Ewallet
+B;Mandalay;Member;Female;Food and beverages;78.984;29,15;3;Credit card
+C;Naypyitaw;Member;Male;Fashion accessories;78.985;99,82;9;Cash
+A;Yangon;Normal;Male;Food and beverages;78.986;58,26;6;Cash
+B;Mandalay;Normal;Female;Fashion accessories;78.987;30,37;3;Ewallet
+C;Naypyitaw;Normal;Female;Electronic accessories;78.988;47,65;3;Credit card
+A;Yangon;Normal;Male;Electronic accessories;78.989;26,02;7;Cash
+C;Naypyitaw;Member;Female;Food and beverages;78.990;38,6;3;Ewallet
+A;Yangon;Member;Male;Food and beverages;78.991;51,34;5;Credit card
+C;Mandalay;Member;Female;Food and beverages;78.992;49,79;4;Credit card
+A;Mandalay;Normal;Female;Food and beverages;78.993;71,68;3;Credit card
+A;Yangon;Member;Female;Fashion accessories;78.994;71,46;7;Ewallet
+A;Mandalay;Member;Male;Health and beauty;78.995;10,08;7;Cash
+A;Naypyitaw;Normal;Female;Health and beauty;78.996;71,38;10;Cash
+B;Yangon;Normal;Male;Health and beauty;78.997;87,87;10;Ewallet
+C;Mandalay;Normal;Male;Electronic accessories;78.998;28,84;4;Cash
+B;Naypyitaw;Member;Male;Health and beauty;78.999;61,29;5;Cash
+B;Yangon;Member;Male;Health and beauty;781.000;54,86;5;Ewallet
+A;Naypyitaw;Member;Female;Home and lifestyle;781.001;72,42;3;Ewallet
+B;Naypyitaw;Normal;Male;Health and beauty;781.002;71,77;7;Cash
+C;Mandalay;Member;Male;Electronic accessories;781.003;82,34;10;Ewallet
+B;Mandalay;Member;Male;Health and beauty;781.004;97,22;9;Ewallet
+A;Yangon;Normal;Female;Sports and travel;781.005;40,23;7;Cash
+B;Mandalay;Member;Male;Health and beauty;781.006;72,57;8;Cash
+A;Yangon;Member;Female;Electronic accessories;781.007;64,44;5;Cash
+C;Naypyitaw;Member;Female;Food and beverages;781.008;72,52;8;Credit card
+C;Naypyitaw;Normal;Male;Health and beauty;781.009;70,21;6;Cash
+B;Mandalay;Member;Male;Food and beverages;781.010;93,4;2;Cash
+C;Naypyitaw;Member;Female;Fashion accessories;781.011;10,18;8;Credit card
+A;Yangon;Member;Female;Home and lifestyle;781.012;34,42;6;Ewallet
+A;Yangon;Normal;Female;Sports and travel;781.013;89,48;5;Cash
+C;Naypyitaw;Member;Male;Electronic accessories;781.014;96,82;3;Cash
